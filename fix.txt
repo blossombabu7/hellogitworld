@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 im Testing
 
+=======
+Im working
+>>>>>>> release
